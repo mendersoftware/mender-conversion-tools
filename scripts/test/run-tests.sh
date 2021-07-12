@@ -21,7 +21,7 @@ BBB_DEBIAN_SDCARD_IMAGE_URL="https://debian.beagleboard.org/images/bone-debian-1
 # Not on official home page, but found via https://elinux.org/Beagleboard:BeagleBoneBlack_Debian:
 
 ## Auto-update
-BBB_DEBIAN_EMMC_IMAGE_URL="https://rcn-ee.com/rootfs/bb.org/testing/2021-05-28/buster-console/bone-debian-10.9-console-armhf-2021-05-28-1gb.img.xz"
+BBB_DEBIAN_EMMC_IMAGE_URL="https://rcn-ee.com/rootfs/bb.org/testing/2021-07-09/buster-console/bone-debian-10.10-console-armhf-2021-07-09-1gb.img.xz"
 
 ## Auto-update
 RASPBIAN_IMAGE_URL="http://downloads.raspberrypi.org/raspbian_lite/images/raspbian_lite-2020-02-14/2020-02-13-raspbian-buster-lite.zip"
